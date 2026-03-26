@@ -1,0 +1,4 @@
+Metric,Baseline,Optimized
+Model size (MB),8.762,8.506
+Inference latency (ms/inference),11.895,2.225
+Accuracy (%),26.17,26.17
