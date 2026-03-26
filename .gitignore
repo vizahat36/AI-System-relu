@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Dataset artifacts (can be downloaded)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local report draft/binary
+report.pdf
